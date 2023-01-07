@@ -1,0 +1,5 @@
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\netcoreapp3.1\Russian roulette.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\netcoreapp3.1\Russian roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\netcoreapp3.1\Russian roulette.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\netcoreapp3.1\Russian roulette.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\netcoreapp3.1\Russian roulette.csproj.CoreCompileInputs.cache

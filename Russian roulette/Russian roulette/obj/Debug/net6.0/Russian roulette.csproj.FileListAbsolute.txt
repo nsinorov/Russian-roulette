@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\bin\Debug\net6.0\Russian roulette.exe
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\bin\Debug\net6.0\Russian roulette.deps.json
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\bin\Debug\net6.0\Russian roulette.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\bin\Debug\net6.0\Russian roulette.dll
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\bin\Debug\net6.0\Russian roulette.pdb
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.dll
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\refint\Russian roulette.dll
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.pdb
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\Russian roulette.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\Russian roulette\Russian roulette\obj\Debug\net6.0\ref\Russian roulette.dll
