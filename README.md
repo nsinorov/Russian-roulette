@@ -3,3 +3,4 @@
 ### Скриншот
 
 ![Capture](https://user-images.githubusercontent.com/45227327/224134689-3fc16836-7a18-406f-ba60-294ed89ca8ba.PNG)
+![Capture1](https://user-images.githubusercontent.com/45227327/224134730-f8debf0a-a58e-4f2b-b303-3945a0ed0fa4.PNG)
